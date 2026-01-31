@@ -1,0 +1,2 @@
+# LexiLoot
+Wordle with Rewards
